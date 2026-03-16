@@ -1,22 +1,17 @@
-# Task 1: Data Preprocessing on Titanic Dataset
+# Codveda Machine Learning Internship
 
-## Objective
-The goal of this task is to prepare raw data for machine learning models.
+This repository contains the tasks completed during my Machine Learning Internship at Codveda Technologies.
 
-## Steps Performed
-- Loaded the Titanic dataset
-- Explored the dataset
-- Removed unnecessary columns
-- Handled missing values
-- Encoded categorical variables
-- Split data into training and testing sets
-- Applied feature scaling
+## Tasks
 
-## Tools Used
-- Python
-- Pandas
-- Scikit-learn
-- Matplotlib
+### Task 1 – Data Preprocessing
+Performed data preprocessing on the Titanic dataset including:
 
-## Outcome
-The dataset is cleaned and ready for machine learning models.
+- Handling missing values
+- Encoding categorical variables
+- Feature scaling
+- Train-test splitting
+
+Dataset prepared for machine learning models.
+
+More tasks will be added as the internship progresses.
